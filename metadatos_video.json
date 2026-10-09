@@ -1,0 +1,19 @@
+{
+  "video": "neymar.mp4",
+  "drive_id": "13Hk50fmb6Kgv6-BCjES7Dz5r6Yg4Wi3K",
+  "fps": 30.0,
+  "ancho": 640,
+  "alto": 360,
+  "fotogramas_declarados": 6344,
+  "fotogramas_extraidos": 6342,
+  "diferencia_fotogramas": 2,
+  "duracion_segun_metadatos_s": 211.46666666666667,
+  "duracion_aproximada_s": 211.4,
+  "carpeta_fotogramas": "frames_originales",
+  "formato_fotogramas": "JPEG",
+  "calidad_jpeg": 95,
+  "indice_inicial": 0,
+  "escenas_registro_visual_inicial": 55,
+  "estado_registro_manual": "pendiente de validación humana mediante reproducción completa",
+  "intervalo_revision_visual_s": 0.5
+}
